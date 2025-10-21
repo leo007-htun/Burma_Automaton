@@ -1,0 +1,35 @@
+Source: burma-automaton
+Section: graphics
+Priority: optional
+Maintainer: Sithu Ye Htun
+Build-Depends: debhelper (>= 12),
+               cmake,
+               build-essential,
+               qt6-base-dev,
+               libqt6opengl6-dev,
+               libcurl4-openssl-dev
+Standards-Version: 4.5.0
+Homepage: https://github.com/leo007-htun/Burma_Automaton
+
+Package: burma-automaton
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends},
+         libqt6core6,
+         libqt6gui6,
+         libqt6widgets6,
+         libqt6opengl6,
+         libqt6openglwidgets6,
+         libqt6network6,
+         libcurl4,
+         python3,
+         python3-pip
+Description: AI-powered 3D world generator for robotics
+ Burma Automaton uses Microsoft's BitNet.cpp for efficient
+ 1.58-bit LLM inference to generate 3D simulation worlds
+ from natural language descriptions.
+ .
+ Features include:
+  * Natural language to 3D world conversion
+  * Gazebo SDF export
+  * RViz map conversion
+  * Material and lighting management

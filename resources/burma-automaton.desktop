@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Burma Automaton
+Comment=Natural language-driven Gazebo world builder
+Exec=BurmaAutomaton
+Icon=/usr/local/share/icons/hicolor/256x256/apps/burma-automaton.png
+Terminal=false
+Categories=Development;Science;Robotics;
+Keywords=gazebo;simulation;robotics;llm;worldbuilding;

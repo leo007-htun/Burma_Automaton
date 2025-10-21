@@ -1,0 +1,9 @@
+# Placeholder for burma-automaton.png
+# 
+# To add a proper icon:
+# 1. Create a 256x256 PNG image
+# 2. Name it burma-automaton.png
+# 3. Place it in this directory
+#
+# For now, you can create a simple one using ImageMagick:
+# convert -size 256x256 xc:blue -pointsize 48 -fill white -gravity center -annotate +0+0 "BA" burma-automaton.png

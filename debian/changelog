@@ -1,0 +1,10 @@
+burma-automaton (1.0.0) focal; urgency=medium
+
+  * Initial release
+  * BitNet.cpp integration for efficient LLM inference
+  * Natural language to 3D world generation
+  * Gazebo SDF export support
+  * RViz map conversion
+  * Fallback world generation system
+
+ -- Sithu Ye Htun   Tue, 21 Oct 2025 13:00:00 +0000
