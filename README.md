@@ -1,4 +1,15 @@
-#  <img width="512" height="512" alt="peacock_2160108" src="https://github.com/user-attachments/assets/214ad2d1-71fa-478d-9b28-dea992e6560a" /> Burma Automaton (ROscribe)  [![roscribe](https://snapcraft.io/roscribe/badge.svg)](https://snapcraft.io/roscribe)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/214ad2d1-71fa-478d-9b28-dea992e6560a" alt="ROscribe Logo" width="128" height="128">
+</p>
+
+<h1 align="center">Burma Automaton (ROscribe)</h1>
+
+<p align="center">
+  <a href="https://snapcraft.io/roscribe">
+    <img src="https://snapcraft.io/roscribe/badge.svg" alt="roscribe">
+  </a>
+</p>
+
 
 
 
