@@ -1,5 +1,7 @@
 # 🧠 Burma Automaton (ROscribe)
 
+[![roscribe](https://snapcraft.io/roscribe/badge.svg)](https://snapcraft.io/roscribe)
+
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/roscribe)
 
 Burma Automaton is a native Ubuntu desktop application that enables users to create, visualize, and export Gazebo simulation worlds using natural language commands interpreted by an integrated BitNet LLM.
