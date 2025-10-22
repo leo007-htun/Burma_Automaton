@@ -1,4 +1,4 @@
-# 🧠 Burma Automaton (ROscribe)  [![roscribe](https://snapcraft.io/roscribe/badge.svg)](https://snapcraft.io/roscribe)
+# <img width="512" height="512" alt="roscribe" src="https://github.com/user-attachments/assets/f32397e3-8d6d-48d7-a33e-0a355874f55b" /> Burma Automaton (ROscribe)  [![roscribe](https://snapcraft.io/roscribe/badge.svg)](https://snapcraft.io/roscribe)
 
 
 
