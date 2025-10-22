@@ -1,5 +1,7 @@
 # Burma Automaton
 
+<iframe src="https://snapcraft.io/roscribe/embedded?button=black" frameborder="0" width="100%" height="380px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe>
+
 **Natural Language-Driven Gazebo World Builder**
 
 Burma Automaton is a native Ubuntu desktop application that enables users to create, visualize, and export Gazebo simulation worlds using natural language commands interpreted by an integrated BitNet LLM.
