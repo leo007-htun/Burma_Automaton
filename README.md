@@ -1,6 +1,6 @@
-# 🧠 Burma Automaton (ROscribe)
+# 🧠 Burma Automaton (ROscribe)  [![roscribe](https://snapcraft.io/roscribe/badge.svg)](https://snapcraft.io/roscribe)
 
-[![roscribe](https://snapcraft.io/roscribe/badge.svg)](https://snapcraft.io/roscribe)
+
 
 <!--[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/roscribe)-->
 
